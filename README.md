@@ -11,3 +11,5 @@ bike_maintain's wireframe can be found at:https://drive.google.com/file/d/1yhDD8
 bike_maintain's user stories can be found at:  https://docs.google.com/document/d/1kFWgxVITj7cBuk8a6UdLm1mFt-VUgFjvG3u_WMgCeFQ/edit?usp=sharing
 
 Web app logic can be found here:  https://docs.google.com/document/d/11YzlxUwTWO0qZLwHiHsxIdEClmFlihHHijVZr61zBQI/edit?usp=sharing
+
+published at:  https://scotttct.github.io/bike_maintain/
